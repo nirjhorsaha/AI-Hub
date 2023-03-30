@@ -1,0 +1,29 @@
+#card-list{
+    list-style-type: disc;
+}
+#card-list > li{
+    font-size:small;
+}
+
+.first{
+    color: #03A30A;
+}
+.second{
+    color: #F28927;
+}
+.third{
+    color: #EB5757;
+    font-size: small;
+}
+
+.left-box{
+    background-color:aliceblue;
+}
+
+.modal-btn{
+    width: 130px;
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: small;
+}
